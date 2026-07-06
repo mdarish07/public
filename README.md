@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mdarish07/public/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
