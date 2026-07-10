@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mdarish07/public/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
@@ -29,5 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
