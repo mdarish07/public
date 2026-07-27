@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mdarish07/public/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
 ## Counting
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
