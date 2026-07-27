@@ -10,7 +10,10 @@ class Solution {
                 if(Math.abs(target-sum)<Math.abs(target-closetSum)){
                     closetSum=sum;
                 }
-                if(sum<target){
+if(sum==target){
+    return sum;
+}
+                else if(sum<target){
                     i++;
                 }
                 else{
