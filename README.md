@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mdarish07/public/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdarish07/public/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String
 |  |
 | ------- |
