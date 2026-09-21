@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/mdarish07/public/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
