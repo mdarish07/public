@@ -10,7 +10,7 @@
        return sum==num;
     }
 }
-*/
+*/ // T.C-->O(n), S.C-->O(1)
 class Solution {
     public boolean checkPerfectNumber(int num) {
         if(num<=1)
@@ -21,8 +21,8 @@ class Solution {
             if (num % i == 0) {
                 sum += i;
 
-                if (i != num / i) {
-                    sum += num / i;
+                if (i != num / i) {// To prevent Same divisor for adding
+                    sum += num / i;// To find remaining pair
                 }
             }
             i++;
@@ -31,3 +31,4 @@ class Solution {
         return sum == num;
     }
 }
+// T.C-->O(Sqrt(n), S.C-->O(1)
