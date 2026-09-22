@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mdarish07/public/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mdarish07/public/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
 ## Math
