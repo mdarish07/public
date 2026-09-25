@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdarish07/public/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mdarish07/public/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdarish07/public/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mdarish07/public/tree/master/0342-power-of-four) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdarish07/public/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdarish07/public/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarish07/public/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String Matching
