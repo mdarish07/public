@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mdarish07/public/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mdarish07/public/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
+| [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/mdarish07/public/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/mdarish07/public/tree/master/0338-counting-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
