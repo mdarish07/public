@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/mdarish07/public/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarish07/public/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Two Pointers
 |  |
 | ------- |
