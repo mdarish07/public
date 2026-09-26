@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mdarish07/public/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mdarish07/public/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mdarish07/public/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/mdarish07/public/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mdarish07/public/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/mdarish07/public/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
