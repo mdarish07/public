@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mdarish07/public/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarish07/public/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/mdarish07/public/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
