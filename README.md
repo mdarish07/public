@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mdarish07/public/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mdarish07/public/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/mdarish07/public/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/mdarish07/public/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/mdarish07/public/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdarish07/public/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mdarish07/public/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/mdarish07/public/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
