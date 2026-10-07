@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/mdarish07/public/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mdarish07/public/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mdarish07/public/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarish07/public/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mdarish07/public/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdarish07/public/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mdarish07/public/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3536-maximum-product-of-two-digits](https://github.com/mdarish07/public/tree/master/3536-maximum-product-of-two-digits) |
