@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdarish07/public/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/mdarish07/public/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/mdarish07/public/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdarish07/public/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mdarish07/public/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdarish07/public/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/mdarish07/public/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mdarish07/public/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
