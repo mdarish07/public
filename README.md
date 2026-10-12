@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mdarish07/public/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdarish07/public/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mdarish07/public/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdarish07/public/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdarish07/public/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarish07/public/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mdarish07/public/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdarish07/public/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarish07/public/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdarish07/public/tree/master/2351-first-letter-to-appear-twice) |
