@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mdarish07/public/tree/master/0709-to-lower-case) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mdarish07/public/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdarish07/public/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mdarish07/public/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarish07/public/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdarish07/public/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
