@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/mdarish07/public/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mdarish07/public/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdarish07/public/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mdarish07/public/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mdarish07/public/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/mdarish07/public/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mdarish07/public/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdarish07/public/tree/master/1832-check-if-the-sentence-is-pangram) |
