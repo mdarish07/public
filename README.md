@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdarish07/public/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mdarish07/public/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0989-add-to-array-form-of-integer](https://github.com/mdarish07/public/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mdarish07/public/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mdarish07/public/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mdarish07/public/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/mdarish07/public/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/mdarish07/public/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarish07/public/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mdarish07/public/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarish07/public/tree/master/1523-count-odd-numbers-in-an-interval-range) |
