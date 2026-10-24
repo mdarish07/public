@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mdarish07/public/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdarish07/public/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mdarish07/public/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdarish07/public/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/mdarish07/public/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdarish07/public/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mdarish07/public/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/mdarish07/public/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdarish07/public/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/mdarish07/public/tree/master/0504-base-7) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarish07/public/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mdarish07/public/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/mdarish07/public/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/mdarish07/public/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mdarish07/public/tree/master/0771-jewels-and-stones) |
