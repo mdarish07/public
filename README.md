@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdarish07/public/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdarish07/public/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdarish07/public/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdarish07/public/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/mdarish07/public/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdarish07/public/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mdarish07/public/tree/master/2942-find-words-containing-character) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mdarish07/public/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mdarish07/public/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mdarish07/public/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdarish07/public/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdarish07/public/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/mdarish07/public/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mdarish07/public/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
