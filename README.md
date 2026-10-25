@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mdarish07/public/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/mdarish07/public/tree/master/1656-design-an-ordered-stream) |
 | [1672-richest-customer-wealth](https://github.com/mdarish07/public/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mdarish07/public/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdarish07/public/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mdarish07/public/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/mdarish07/public/tree/master/1929-concatenation-of-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarish07/public/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/mdarish07/public/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mdarish07/public/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mdarish07/public/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mdarish07/public/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/mdarish07/public/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mdarish07/public/tree/master/1979-find-greatest-common-divisor-of-array) |
