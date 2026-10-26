@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mdarish07/public/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdarish07/public/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/mdarish07/public/tree/master/0392-is-subsequence) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mdarish07/public/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/mdarish07/public/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdarish07/public/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarish07/public/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarish07/public/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/mdarish07/public/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mdarish07/public/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/mdarish07/public/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/mdarish07/public/tree/master/0709-to-lower-case) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mdarish07/public/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/mdarish07/public/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/mdarish07/public/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
