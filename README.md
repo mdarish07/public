@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mdarish07/public/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/mdarish07/public/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/mdarish07/public/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/mdarish07/public/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mdarish07/public/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mdarish07/public/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdarish07/public/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mdarish07/public/tree/master/0682-baseball-game) |
 | [1603-design-parking-system](https://github.com/mdarish07/public/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/mdarish07/public/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/mdarish07/public/tree/master/1929-concatenation-of-array) |
@@ -356,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mdarish07/public/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mdarish07/public/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/mdarish07/public/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
