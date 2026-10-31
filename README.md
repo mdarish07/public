@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdarish07/public/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdarish07/public/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mdarish07/public/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mdarish07/public/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mdarish07/public/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdarish07/public/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/mdarish07/public/tree/master/2706-buy-two-chocolates) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mdarish07/public/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/mdarish07/public/tree/master/1656-design-an-ordered-stream) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdarish07/public/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mdarish07/public/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarish07/public/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdarish07/public/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/mdarish07/public/tree/master/2965-find-missing-and-repeated-values) |
