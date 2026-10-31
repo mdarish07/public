@@ -14,16 +14,8 @@ class Solution {
   else if(ch!='#')
     s2.push(ch);
  }
- String res1 = "";
-        String res2 = "";
-        
-        while(!s1.isEmpty())
-            res1 += s1.pop();
-        
-        while(!s2.isEmpty())
-            res2 += s2.pop();
-        
-        return res1.equals(res2);
+
+        return s1.equals(s2);
 
     }
 }
