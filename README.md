@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mdarish07/public/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/mdarish07/public/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/mdarish07/public/tree/master/0326-power-of-three) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mdarish07/public/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/mdarish07/public/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/mdarish07/public/tree/master/0844-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/mdarish07/public/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
