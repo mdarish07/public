@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mdarish07/public/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mdarish07/public/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mdarish07/public/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdarish07/public/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mdarish07/public/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarish07/public/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdarish07/public/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mdarish07/public/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2942-find-words-containing-character](https://github.com/mdarish07/public/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
