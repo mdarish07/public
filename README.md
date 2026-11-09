@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mdarish07/public/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/mdarish07/public/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdarish07/public/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mdarish07/public/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mdarish07/public/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdarish07/public/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/mdarish07/public/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdarish07/public/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdarish07/public/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mdarish07/public/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mdarish07/public/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mdarish07/public/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mdarish07/public/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdarish07/public/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mdarish07/public/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mdarish07/public/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarish07/public/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdarish07/public/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdarish07/public/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mdarish07/public/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/mdarish07/public/tree/master/0844-backspace-string-compare) |
@@ -388,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mdarish07/public/tree/master/0334-increasing-triplet-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
