@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mdarish07/public/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdarish07/public/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mdarish07/public/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mdarish07/public/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdarish07/public/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/mdarish07/public/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mdarish07/public/tree/master/0171-excel-sheet-column-number) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mdarish07/public/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mdarish07/public/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mdarish07/public/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/mdarish07/public/tree/master/0682-baseball-game) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdarish07/public/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mdarish07/public/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
