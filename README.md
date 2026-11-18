@@ -418,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdarish07/public/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/mdarish07/public/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
